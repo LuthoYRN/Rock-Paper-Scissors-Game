@@ -16,7 +16,7 @@ To run this game locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/rock-paper-scissors.git
+    git clone https://github.com/LuthoYRN/rock-paper-scissors.git
     ```
 2. Navigate to the project directory:
     ```bash
