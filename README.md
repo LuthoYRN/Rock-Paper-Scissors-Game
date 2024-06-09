@@ -16,11 +16,11 @@ To run this game locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/LuthoYRN/rock-paper-scissors.git
+    git clone https://github.com/LuthoYRN/rock-paper-scissors-game.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd rock-paper-scissors
+    cd rock-paper-scissors-game
     ```
 3. Open `rps.html` in your favorite browser to start the game.
 
